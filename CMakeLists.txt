@@ -58,6 +58,7 @@ add_service_files(
   FILES
   MotorCommand.srv
   NavCommand.srv
+  HeadCommand.srv
 )
 
 ## Generate actions in the 'action' folder

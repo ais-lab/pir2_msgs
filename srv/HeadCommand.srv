@@ -1,0 +1,7 @@
+std_msgs/String name
+std_msgs/Float64 angle
+std_msgs/Float64 speed
+---
+
+std_msgs/Bool result
+
